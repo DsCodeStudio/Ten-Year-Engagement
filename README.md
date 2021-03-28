@@ -5,5 +5,5 @@
 
 十年 
 
-懂设计和开发的全栈产品设计师 + 讲师 designers who can code  
+成为懂设计和开发的全栈产品设计师 + 讲师 designers who can code  
 喜欢 Notion Github Obsidian VSCode Google... 这样优秀的产品
