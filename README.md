@@ -1,9 +1,19 @@
+<!--
+ * @author: DSCode
+ * @create: 2021-03-28 14:22 PM
+ * @license: MIT
+ * @lastAuthor: DSCode
+ * @lastEditTime: 2021-05-05 23:15 PM
+ * @desc: 说明一下下 😄
+-->
+
 # Ten-Year-Engagement
+
 开源自己的十年之约 2020-2030，奇妙的念头往往来自于一瞬间，捕捉灵魂的闪光，自然且有趣
 
 今天呢，天气不错，晒晒太阳，开源自己的项目，开源自己的十年之约，源自社区，回馈社区，我好菜啊，想的再多，不如动手，尽力而为。 -- 2021 3 28 14:06
 
-十年 
+十年
 
 成为懂设计和开发的全栈产品设计师 + 讲师 designers who can code  
 喜欢 Notion Github Obsidian VSCode Google... 这样优秀的产品
